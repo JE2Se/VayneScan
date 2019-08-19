@@ -1,0 +1,14 @@
+pyfiglet
+dnspython3
+bs4
+requests
+argparse
+urllib
+random
+logging
+socket
+traceback
+getopt
+Queue
+fake_useragent
+threading
