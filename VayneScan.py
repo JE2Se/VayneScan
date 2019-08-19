@@ -3,7 +3,7 @@
 @File : VayneScan.py
 @Time : 2019/08/19 13:46:14
 @Author : JE2Se 
-@Version : 1.0
+@Version : 1.1
 @Contact : admin@je2se.com
 @WebSite : https://www.je2se.com
 '''
